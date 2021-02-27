@@ -1,6 +1,6 @@
 # the-paw-redoption
 
-![Workflow result](https://github.com/kinnerapriyao/the-paw-redoption/workflows/Check/badge.svg)
+![Workflow result](https://github.com/kinnerapriyap/the-paw-redoption/workflows/Check/badge.svg)
 
 
 ## :scroll: Description
