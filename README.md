@@ -4,16 +4,15 @@
 
 
 ## :scroll: Description
-<!--- Describe your app in one or two sentences -->
-
+#AndroidDevChallenge puppy adoption app for Week 1
 
 ## :bulb: Motivation and Context
-<!--- Optionally point readers to interesting parts of your submission. -->
-<!--- What are you especially proud of? -->
-
+Ooh!
+* `LazyVerticalGrid` is an interesting api for grids - ref [here](https://developer.android.com/reference/kotlin/androidx/compose/foundation/lazy/package-summary#lazyverticalgrid)
+* `GlideImage` from `dev.chrisbanes.accompanist` makes loading images from url much easier than implementing CustomTarget
+* The cute media from [random.dog](https://random.dog/)
 
 ## :camera_flash: Screenshots
-<!-- You can add more screenshots here if you like -->
 <img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
 
 ## License
