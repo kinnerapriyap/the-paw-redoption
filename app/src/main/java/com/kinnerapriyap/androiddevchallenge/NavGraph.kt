@@ -1,8 +1,8 @@
-package com.example.androiddevchallenge
+package com.kinnerapriyap.androiddevchallenge
 
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.navigate
-import com.example.androiddevchallenge.Destinations.Detail
+import com.kinnerapriyap.androiddevchallenge.Destinations.Detail
 
 object Destinations {
     const val List = "list"

@@ -1,4 +1,4 @@
-package com.example.androiddevchallenge
+package com.kinnerapriyap.androiddevchallenge
 
 val list = listOf(
     "00186969-c51d-462b-948b-30a7e1735908.jpg",

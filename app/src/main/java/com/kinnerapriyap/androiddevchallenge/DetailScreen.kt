@@ -1,4 +1,4 @@
-package com.example.androiddevchallenge
+package com.kinnerapriyap.androiddevchallenge
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -18,7 +18,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import com.bumptech.glide.request.RequestOptions
-import com.example.androiddevchallenge.ui.theme.typography
+import com.kinnerapriyap.androiddevchallenge.ui.theme.typography
 import dev.chrisbanes.accompanist.glide.GlideImage
 
 @Composable

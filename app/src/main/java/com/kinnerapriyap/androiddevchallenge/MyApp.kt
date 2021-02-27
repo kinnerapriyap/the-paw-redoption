@@ -1,4 +1,4 @@
-package com.example.androiddevchallenge
+package com.kinnerapriyap.androiddevchallenge
 
 import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.material.MaterialTheme
@@ -10,9 +10,9 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.navArgument
 import androidx.navigation.compose.rememberNavController
-import com.example.androiddevchallenge.Destinations.Detail
-import com.example.androiddevchallenge.Destinations.DetailArgs.PawItemImageUrl
-import com.example.androiddevchallenge.Destinations.DetailArgs.PawItemName
+import com.kinnerapriyap.androiddevchallenge.Destinations.Detail
+import com.kinnerapriyap.androiddevchallenge.Destinations.DetailArgs.PawItemImageUrl
+import com.kinnerapriyap.androiddevchallenge.Destinations.DetailArgs.PawItemName
 
 @ExperimentalFoundationApi
 @Composable

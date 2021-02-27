@@ -1,4 +1,4 @@
-package com.example.androiddevchallenge
+package com.kinnerapriyap.androiddevchallenge
 
 import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.clickable

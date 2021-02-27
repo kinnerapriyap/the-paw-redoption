@@ -1,4 +1,4 @@
-package com.example.androiddevchallenge
+package com.kinnerapriyap.androiddevchallenge
 
 import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize
